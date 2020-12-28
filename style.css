@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+  
+}
+P{
+    font-size:30;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#myCarousel{
+    background-color:blueviolet;
+}
+#myCarousel img{
+   height: 300px;
+    margin-top: 35px;
+} 
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.carousel-indicators{
+     height:50px;
+    width:50px;
+}
+#thanos{
+    height:200px;
+    width:250px;
+    
+}
+#hulk{
+      height:200px;
+    width:250px;
+    }
+#CA{
+ height:200px;
+width:250px;
+}
+#BP{
+    height:200px;
+    width:250px;
+}
+#thor{
+    height:200px;
+    width:250px;
+}
+#gamora{
+    height:200px;
+    width:250px;
+}
+    
